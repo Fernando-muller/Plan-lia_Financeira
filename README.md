@@ -1,5 +1,5 @@
 # 💰 Planilha Financeira
-#📌 Status do Projeto
+# 📌 Status do Projeto
 
 🚧 Em desenvolvimento
 
